@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\hope\\.android\\build-cache\\dbf4e401fcccef6dfc004c91ec3cbfe72e3875db\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hope\\.android\\build-cache\\dbf4e401fcccef6dfc004c91ec3cbfe72e3875db\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\hope\\.android\\build-cache\\dbf4e401fcccef6dfc004c91ec3cbfe72e3875db\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\hope\\.android\\build-cache\\dbf4e401fcccef6dfc004c91ec3cbfe72e3875db\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

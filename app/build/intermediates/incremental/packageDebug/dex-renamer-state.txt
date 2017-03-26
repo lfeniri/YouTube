@@ -1,0 +1,7 @@
+#Sun Mar 26 20:03:00 CEST 2017
+base.0=C\:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b0388df26100fe72273fca5515564b2efbbef1e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd89ffd5b04026e24cb415e4ee61b6941ee6f3ea\\classes.dex
+base.1=C\:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd89ffd5b04026e24cb415e4ee61b6941ee6f3ea
+file.0=C\:\\Users\\hope\\AndroidStudioProjects\\YouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b0388df26100fe72273fca5515564b2efbbef1e\\classes.dex
